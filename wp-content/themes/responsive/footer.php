@@ -73,7 +73,7 @@ $responsive_options = responsive_get_options();
 		<a href="#scroll-top" class="grid col-300 scroll-top ui-scrolltop" title="<?php esc_attr_e( 'scroll to top', 'responsive' ); ?>"><?php _e( '&uarr;', 'responsive' ); ?></a>
 		
 		<div class="grid col-300 fit powered">
-			<a href="http://www.miibeian.gov.cn/" target="_blank" title="ICP备案号:粤ICP备14020862号">ICP备案号:粤ICP备14020862号</a>
+			<a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备14039517号</a>
 		</div>
 		<!-- end .powered -->
 

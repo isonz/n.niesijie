@@ -19,8 +19,9 @@ if( !defined( 'ABSPATH' ) ) {
  * @since          available since Release 1.0
  */
 ?>
-
+<!--  ison.zhang
 	<h1 class="entry-title post-title"><?php the_title(); ?></h1>
+-->
 
 <?php if( comments_open() ) : ?>
 	<div class="post-meta">
